@@ -35,7 +35,7 @@ Each algorithm will have:
 
 ## 🤝 Other Collab Repo  
 
-I am also actively contributing to a similar repo maintained by my friend **Piyush Gupta**.  
+I will be also actively contributing to a similar repo maintained by my friend **Piyush Gupta**.  
 That repository is more **documentation-heavy** and structured as a reference for juniors.  
 This one, on the other hand, is more of my **experimental workspace + project hub**.  
 
